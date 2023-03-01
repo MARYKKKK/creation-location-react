@@ -1,4 +1,5 @@
 .accordeons{
+    margin: -9px;
     display: flex;
     justify-content: space-between;
     
